@@ -1,6 +1,0 @@
-install: make dep
-language: c
-script: make
-compiler: gcc
-sudo: required
-
