@@ -1,5 +1,3 @@
-sudo: required
-install: make dep
 language: c
+sudo: required
 script: make dep && make test
-compiler: gcc
